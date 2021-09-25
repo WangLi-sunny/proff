@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356505",
+      "name": "people",
+      "font_class": "yidiandiantubiao08",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "448696",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "637568",
+      "name": "LC_icon_search_line_2",
+      "font_class": "LC_icon_search_line_2",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "792199",
+      "name": "X",
+      "font_class": "x",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1026980",
+      "name": "bag",
+      "font_class": "bag",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "5560698",
+      "name": "heart",
+      "font_class": "heart1",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "8616409",
+      "name": "icon-admin",
+      "font_class": "icon-admin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11269056",
+      "name": "search 搜索 查找",
+      "font_class": "search",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "17583245",
+      "name": "大于",
+      "font_class": "dayu",
+      "unicode": "ec97",
+      "unicode_decimal": 60567
+    },
+    {
+      "icon_id": "19958987",
+      "name": "bag",
+      "font_class": "bag1",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+footer {
+    margin-top: 100px;
+}
+
+.small-list {
+    float: left;
+    position: relative;
+    overflow: hidden;
+    width: 85px;
+    height: 484px;
+    margin-top: 10px;
+    padding: 30px 0;
+}
+
+.small-list li {
+    width: 85px;
+    /* border: 1px solid red; */
+}
+
+.small-list li+li {
+    margin-top: 20px;
+}
+
+.small-list li a,
+.small-list li img {
+    display: block;
+    width: 100%;
+}
+
+button {
+    background-color: none;
+}
+
+.pre,
+.nex {
+    position: absolute;
+    font-size: 28px;
+}
+
+.pre {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%) rotate(-90deg);
+}
+
+.nex {
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%) rotate(90deg);
+}
+
+.bg-show {
+    position: relative;
+    float: left;
+    margin-left: 15px;
+}
+
+.bg-show li {
+    width: 470px;
+    display: none;
+}
+
+.bg-show li img {
+    width: 100%;
+}
+
+.bg-show li:first-child {
+    display: block;
+}
+
+.masks {
+    position: absolute;
+    display: none;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255, 132, 172, .3);
+}
+
+.big {
+    position: absolute;
+    display: none;
+    width: 500px;
+    height: 500px;
+    /* background-color: pink; */
+    right: -600px;
+    top: 0;
+    z-index: 12;
+    overflow: hidden;
+}
+
+.big img {
+    position: absolute;
+    width: 800px;
+    height: 800px;
+}
+
+.morright {
+    position: relative;
+    z-index: 9;
+}

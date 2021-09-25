@@ -1,0 +1,97 @@
+.header-baaner {
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 80px 0 0 0;
+    margin-bottom: 100px;
+}
+
+.brim1 {
+    float: left;
+    width: 280px;
+    margin-top: 70px;
+}
+
+.brim1 img,
+.birm2 img {
+    width: 100%;
+}
+
+.brim2 {
+    float: right;
+    /* margin-top: 60px; */
+}
+
+.wishlist {
+    float: left;
+    width: 280px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #Fff;
+    margin-left: 380px;
+    padding: 70px 0 100px 0;
+}
+
+.wishlist h2 {
+    font-size: 48px;
+    font-weight: 500;
+    color: #323232;
+    line-height: 1;
+    margin: 0 0 29px;
+}
+
+.commodity {
+    margin-bottom: 100px;
+}
+
+table {
+    width: 100%;
+}
+
+thead tr {
+    width: 100%;
+    line-height: 48px;
+    background-color: #f3f3f3;
+}
+
+thead th,
+td {
+    text-align: center;
+}
+
+tbody tr {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+tbody td {
+    line-height: 140px;
+}
+
+tbody img {
+    width: 80px;
+}
+
+a:hover {
+    color: #ec9358;
+}
+
+.acart {
+    width: 120px;
+    line-height: 36px;
+}
+
+.pricesum {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.s {
+    display: block;
+    float: left;
+    margin-left: 80px;
+}
+
+.m {
+    display: block;
+    float: right;
+    margin-right: 80px;
+}
